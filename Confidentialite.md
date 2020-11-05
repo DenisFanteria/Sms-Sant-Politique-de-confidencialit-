@@ -1,4 +1,4 @@
-Cette politique de confidentialité concerne votre utilisation de l’application Sms Santé développée par Denis FANTERIA 
+#Cette politique de confidentialité concerne votre utilisation de l’application Sms Santé développée par Denis FANTERIA 
 
 **Quelles  informations nos Applications obtiennent-elles et comment sont-elles utilisées ?**
 

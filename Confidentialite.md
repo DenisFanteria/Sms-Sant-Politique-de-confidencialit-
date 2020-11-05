@@ -10,7 +10,9 @@ Seules les informations que vous nous donnez quand vous nous contactez pour de l
 **Les informations collectées automatiquement :**
 
 SMS Santé ne collecte aucune information automatiquement. Nous ne réalisons pas de statistiques sur nos utilisateurs ni sur leur matériel.
-Est-ce-que nos applications collectent des données précises sur la localisation en temps réel de l’appareil ?
+
+**Est-ce-que nos applications collectent des données précises sur la localisation en temps réel de l’appareil ?**
+
 Notre application ne collecte pas les données précises sur la localisation géographique de l’appareil.
 
 **Est-ce-qu’un tiers peut voir ou avoir accès à ces données obtenues par nos applications ?**

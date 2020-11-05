@@ -37,7 +37,7 @@ Nous sommes concernés par la sauvegarde de la confidentialité de vos informati
 
 **Changements :**
 
-Cette Politique de Confidentialité peut être amenée à évoluer de temps en temps, pour quelque raison  que ce soit. Nous vous informerons alors de toute modification de celle-ci en publiant la nouvelle Politique de Confidentialité sur la page  https://github.com/DenisFanteria/Sms-Sant-Politique-de-confidencialit-/blob/main/Confidentialite.md et en vous informant via l’application mobile. Vous êtes avisé de consulter régulièrement cette Politique de Confidentialité, car l’utilisation continue signifie un accord avec tout changement.
+Cette Politique de Confidentialité peut être amenée à évoluer de temps en temps, pour quelque raison  que ce soit. Nous vous informerons alors de toute modification de celle-ci en publiant la nouvelle Politique de Confidentialité sur la page  https://github.com/DenisFanteria/SmsSante-Confidencialite/blob/main/Confidentialite.md et en vous informant via l’application mobile. Vous êtes avisé de consulter régulièrement cette Politique de Confidentialité, car l’utilisation continue signifie un accord avec tout changement.
 
 **Votre consentement :**
 
